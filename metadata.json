@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Thumbnail Generator",
+  "description": "A tool to create YouTube thumbnails by selecting three Steam games whose cover art will be displayed on a canvas, separated by slanted purple lines.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
